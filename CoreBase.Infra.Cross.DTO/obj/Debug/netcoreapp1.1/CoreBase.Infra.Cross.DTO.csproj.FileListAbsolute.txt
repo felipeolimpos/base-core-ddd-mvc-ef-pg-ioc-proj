@@ -1,0 +1,7 @@
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.DTO\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.deps.json
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.DTO\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.DTO\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.DTO\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.csprojResolveAssemblyReference.cache
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.DTO\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.AssemblyInfo.cs
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.DTO\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.DTO\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.pdb
