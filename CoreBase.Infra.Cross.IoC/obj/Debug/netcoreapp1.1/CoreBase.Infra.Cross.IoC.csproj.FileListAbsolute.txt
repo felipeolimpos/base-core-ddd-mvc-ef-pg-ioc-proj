@@ -1,0 +1,13 @@
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.IoC.deps.json
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.IoC.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.IoC.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\bin\Debug\netcoreapp1.1\CoreBase.Domain.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\bin\Debug\netcoreapp1.1\CoreBase.Infra.Data.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\bin\Debug\netcoreapp1.1\CoreBase.Infra.Data.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\bin\Debug\netcoreapp1.1\CoreBase.Domain.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.IoC.csprojResolveAssemblyReference.cache
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.IoC.AssemblyInfo.cs
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.IoC.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.IoC\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.IoC.pdb

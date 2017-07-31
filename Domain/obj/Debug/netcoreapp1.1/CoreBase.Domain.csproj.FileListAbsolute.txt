@@ -1,0 +1,9 @@
+C:\Projetos\CoreBase\Domain\bin\Debug\netcoreapp1.1\CoreBase.Domain.deps.json
+C:\Projetos\CoreBase\Domain\bin\Debug\netcoreapp1.1\CoreBase.Domain.dll
+C:\Projetos\CoreBase\Domain\bin\Debug\netcoreapp1.1\CoreBase.Domain.pdb
+C:\Projetos\CoreBase\Domain\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.dll
+C:\Projetos\CoreBase\Domain\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.pdb
+C:\Projetos\CoreBase\Domain\obj\Debug\netcoreapp1.1\CoreBase.Domain.csprojResolveAssemblyReference.cache
+C:\Projetos\CoreBase\Domain\obj\Debug\netcoreapp1.1\CoreBase.Domain.AssemblyInfo.cs
+C:\Projetos\CoreBase\Domain\obj\Debug\netcoreapp1.1\CoreBase.Domain.dll
+C:\Projetos\CoreBase\Domain\obj\Debug\netcoreapp1.1\CoreBase.Domain.pdb

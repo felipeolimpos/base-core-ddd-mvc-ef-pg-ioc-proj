@@ -1,0 +1,11 @@
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.AutoMapper.deps.json
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.AutoMapper.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.AutoMapper.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\bin\Debug\netcoreapp1.1\CoreBase.Domain.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\bin\Debug\netcoreapp1.1\CoreBase.Domain.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.AutoMapper.csprojResolveAssemblyReference.cache
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.AutoMapper.AssemblyInfo.cs
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.AutoMapper.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Cross.AutoMapper\obj\Debug\netcoreapp1.1\CoreBase.Infra.Cross.AutoMapper.pdb

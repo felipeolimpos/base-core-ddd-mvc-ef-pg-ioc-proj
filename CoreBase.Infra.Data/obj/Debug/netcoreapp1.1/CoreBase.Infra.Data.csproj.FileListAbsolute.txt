@@ -1,0 +1,13 @@
+C:\Projetos\CoreBase\CoreBase.Infra.Data\bin\Debug\netcoreapp1.1\CoreBase.Infra.Data.deps.json
+C:\Projetos\CoreBase\CoreBase.Infra.Data\bin\Debug\netcoreapp1.1\CoreBase.Infra.Data.runtimeconfig.json
+C:\Projetos\CoreBase\CoreBase.Infra.Data\bin\Debug\netcoreapp1.1\CoreBase.Infra.Data.runtimeconfig.dev.json
+C:\Projetos\CoreBase\CoreBase.Infra.Data\bin\Debug\netcoreapp1.1\CoreBase.Infra.Data.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Data\bin\Debug\netcoreapp1.1\CoreBase.Infra.Data.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Data\bin\Debug\netcoreapp1.1\CoreBase.Domain.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Data\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Data\bin\Debug\netcoreapp1.1\CoreBase.Infra.Cross.DTO.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Data\bin\Debug\netcoreapp1.1\CoreBase.Domain.pdb
+C:\Projetos\CoreBase\CoreBase.Infra.Data\obj\Debug\netcoreapp1.1\CoreBase.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\CoreBase\CoreBase.Infra.Data\obj\Debug\netcoreapp1.1\CoreBase.Infra.Data.AssemblyInfo.cs
+C:\Projetos\CoreBase\CoreBase.Infra.Data\obj\Debug\netcoreapp1.1\CoreBase.Infra.Data.dll
+C:\Projetos\CoreBase\CoreBase.Infra.Data\obj\Debug\netcoreapp1.1\CoreBase.Infra.Data.pdb

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreBase.Infra.Cross.DTO\CoreBase.Infra.Cross.DTO.csproj" />
+    <ProjectReference Include="..\Domain\CoreBase.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
